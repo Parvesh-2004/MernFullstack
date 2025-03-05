@@ -1,0 +1,13 @@
+.bg-home-container{
+    background-image: url("https://ik.imagekit.io/aps74lpmq/sea-ocean");
+    width: 300px;
+    height: 600px;
+    background-size: cover;
+}
+
+.bg-fav-container{
+    background-image: url("https://ik.imagekit.io/aps74lpmq/taj-mahal?updatedAt=1741086998505") ;
+    height: 540px; 
+    width: 360px;
+    background-size: cover;
+}
