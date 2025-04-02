@@ -1,0 +1,6 @@
+.bg-hero-section {
+    background-image: url("./zomato\ back.jpg");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
